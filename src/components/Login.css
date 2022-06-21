@@ -1,0 +1,21 @@
+.MainLogin {
+  background-color: aquamarine;
+  height: 100px;
+}
+
+
+.Login {
+  display: inline-block;
+  padding: auto;
+}
+
+.Login form {
+  margin: auto;
+  max-width: 320px;
+  background-color: rgb(130, 214, 243);
+}
+
+.Register {
+  display: inline-block;
+  padding: 10px 10px;
+}
